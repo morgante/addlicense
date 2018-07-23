@@ -14,8 +14,8 @@ to any file that already has one.
 
     addlicense [flags] pattern [pattern ...]
     
-    -c copyright holder (default "Google Inc.")
-    -l license type: apache, mit (default "apache")
+    -c copyright holder (default "Google LLC.")
+    -l license type: apache, bsd, mit (default "apache")
     -y year (default 2016)
 
 The pattern argument can be provided multiple times, and may also refer
